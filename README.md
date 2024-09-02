@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Zephyr, a gaming enthusiast.q Exploring new game worlds and ideas.
+I’m Unmukta, a gaming enthusiast.q Exploring new game worlds and ideas.
 
 
 ## 🌐 Socials:
