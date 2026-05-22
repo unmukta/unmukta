@@ -1,25 +1,163 @@
-# 💫 About Me:
-Exploring ethical hacking, forensics, and bug hunting :)
-🔭 I’m currently working on Meowtrix-AI<br>
+# Hi, I'm Unmukt 👋
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/unmukta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:unmuktad@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=unmukta&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=unmukta&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=unmukta&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=unmukta&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=850&lines=AI+Developer;Cybersecurity+Enthusiast;Full+Stack+Developer;Building+Ubiqui+AI;Creating+Privacy+Tools+%26+Apps;Open+Source+Developer+🚀" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=unmukta&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me
+
+💻 Developer focused on building **AI-powered, scalable & privacy-focused applications**  
+🚀 Currently working on **Ubiqui AI, privacy tools & advanced web applications**  
+📌 Passionate about **Artificial Intelligence, Cybersecurity & Full Stack Development**  
+⚡ Consistent learner exploring **system architecture, backend systems & security**
+
+---
+
+## 🏆 Profiles & Links
+
+### 🌐 Portfolio & Socials
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/unmukta)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/unmukta/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/unmukta10)
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 Ubiqui AI
+
+🔹 Multipurpose AI assistant inspired by modern AI systems  
+🔹 Includes authentication, chat system & assistant features  
+🔹 Focused on user-friendly UI & scalable architecture  
+🔹 Future plans include voice assistant & navigation integration  
+
+**Tech Used:** HTML, CSS, JavaScript, Node.js, AI APIs
+
+🔗 https://github.com/unmukta
+
+---
+
+### 🔒 Privacy Browser
+
+🔹 Privacy-focused custom browser project  
+🔹 Anti-tracking & adblock concepts  
+🔹 Lightweight modern UI  
+🔹 Security & privacy focused architecture  
+
+**Tech Used:** Electron, JavaScript, Node.js
+
+🔗 https://github.com/unmukta
+
+---
+
+### 🌐 VPN Monitoring Dashboard
+
+🔹 VPN analytics & monitoring application  
+🔹 Tracks usage statistics & traffic data  
+🔹 Real-time monitoring dashboard  
+🔹 Built for networking & cybersecurity learning  
+
+**Tech Used:** JavaScript, Node.js, Express
+
+🔗 https://github.com/unmukta
+
+---
+
+### 🎮 Eternity Civilization
+
+🔹 Indian Minecraft PvP Survival Civilization Server  
+🔹 Empire system, diplomacy & alliances  
+🔹 Large-scale community management  
+🔹 PvP, economy & roleplay mechanics  
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus)
+
+---
+
+### ⚙️ Frameworks & Technologies
+
+![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![REST API](https://img.shields.io/badge/REST-API-black?style=for-the-badge)
+
+---
+
+### 🗄 Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
+
+---
+
+### 🧰 Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visualstudiocode)
+![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+
+---
+
+## 📈 What I'm Learning
+
+📌 Artificial Intelligence & Machine Learning  
+📌 Cybersecurity & Networking  
+📌 Backend System Architecture  
+📌 Full Stack Web Development  
+📌 Privacy & Security Focused Applications  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=unmukta&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=unmukta&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unmukta&theme=tokyonight&hide_border=true&layout=compact" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=unmukta&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/unmukta/unmukta/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+🔗 LinkedIn: https://www.linkedin.com/in/unmukta/  
+📧 Email: unmuktad@gmail.com  
+📸 Instagram: https://www.instagram.com/unmukta10  
+
+---
+
+⭐ *"Focused on building futuristic software, AI systems & privacy-focused applications."*
