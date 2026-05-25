@@ -1,106 +1,73 @@
-# Hi, I'm Unmukta 👋
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Unmukta</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=850&lines=AI+Developer;Cybersecurity+Enthusiast;Full+Stack+Developer;Open+Source+Developer+🚀" />
+  <a href="https://komarev.com/ghpvc/?username=unmukta">
+    <img src="https://komarev.com/ghpvc/?username=unmukta&label=Profile%20views&color=00FFFF&style=flat-square" alt="unmukta's profile views" />
+  </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
-## 🧠 About Me
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/unmukta">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=unmukta&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="unmukta's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=unmukta&theme=dark&hide_border=true&cache_seconds=86400" alt="unmukta's GitHub Streak" width="49%" />
+</p>
+<div align="center">
+  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
+</div>
 
-💻 Developer focused on building **AI-powered, scalable & privacy-focused applications**  
-🚀 Currently improving **backend systems, security & full stack development**  
-📌 Passionate about **Artificial Intelligence, Cybersecurity & Modern Web Technologies**  
-⚡ Consistent learner exploring **system architecture & scalable applications**
 
----
+## 🛠️ Languages & Tools
 
-## 🏆 Profiles & Links
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
 
-### 🌐 Portfolio & Socials
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/unmukta)
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/unmukta/)
+</p>
 
----
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
 
-## 🛠 Tech Stack
+</p>
 
-### 💻 Languages
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
 
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-
----
-
-### ⚙️ Frameworks & Technologies
-
-![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![REST API](https://img.shields.io/badge/REST-API-black?style=for-the-badge)
-
----
-
-### 🗄 Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
-
----
-
-### 🧰 Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-
----
-
-## 📈 What I'm Learning
-
-📌 Artificial Intelligence & Machine Learning  
-📌 Cybersecurity & Networking  
-📌 Backend System Architecture  
-📌 Full Stack Web Development  
-📌 Privacy & Security Focused Applications  
-
----
-
-## 📊 GitHub Stats
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=unmukta&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=unmukta&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unmukta&theme=tokyonight&hide_border=true&layout=compact" />
+  <a href="https://github.com/unmukta">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=unmukta&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
+  </a>
 </p>
 
----
-
-## 📈 Contribution Graph
-
+## 🔗 Connect with Me
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=unmukta&theme=tokyo-night&hide_border=true" />
+  <a href="https://www.linkedin.com/in/unmukta/"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Unmukta's LinkedIn"/></a>&nbsp;
+  <a href="mailto:unmuktad@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Unmukta's Email"/></a>
 </p>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
 
-## 🐍 Contribution Snake
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
+</div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/unmukta/unmukta/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
----
-
-## 📫 Connect with Me
-
-🔗 LinkedIn: https://www.linkedin.com/in/unmukta/  
-📧 Email: your-email@example.com  
-
----
-
-⭐ *"Focused on building futuristic software, scalable systems & impactful applications."*
